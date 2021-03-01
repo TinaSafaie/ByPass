@@ -4,9 +4,9 @@
   "name": "ByPass",
   "description": "Let's start storing your passwords",
   "version": "4.0.0",
-  "icons": { "128": "bicon_128.png" },
+  "icons": { "128": "UI/bicon_128.png" },
   "browser_action": {
-    "default_icon": "bicon_128.png",
+    "default_icon": "UI/bicon_128.png",
     "default_popup": "popup.html",
     "optional_permissions": ["tabs"],
     "options_page": ["login.html"],

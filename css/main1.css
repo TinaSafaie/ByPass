@@ -94,7 +94,7 @@ meter[value="4"]::-moz-meter-bar { background: green; }
 .alt_page1{
   width: 100%;
   height: 100%;
-  background-image: url("UI/p1.png")
+  background-image: url("../UI/p1.png")
 }
 .top_page1{
   width: 100%;
